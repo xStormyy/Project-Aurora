@@ -1,9 +1,26 @@
-# Project Aurora
+ 
+ ​#​ ​Project Aurora
+ ​![](https://media.discordapp.net/attachments/963498605702959154/971469366644342904/Untitled156_20220504175217.png) 
+  
+ ​**An Open Source Launcher and UI For Minecraft: Pocket Edition.** 
+  
+ ​##​ ​Contributing 
 
-An Open Source Launcher and UI For Minecraft: Pocket Edition.
-
-
-
-
-![Logo](https://media.discordapp.net/attachments/963498605702959154/971466417922777179/pack_icon.png)
-
+   if theres an issue within the code you can contribute and attempt to fix it, you can send it to the developer's or upload it directly, you can also add helpful fetaures to the launcher or UI and submit it.
+ 
+  
+ ​##​ ​Open source 
+ ​What you CAN do: 
+ ​-​ Modify the code/design for personal use 
+ 
+ -Use/study specific parts of the code for personal use.
+ ​-​
+  
+ ​What you CAN'T do: 
+ 
+ ​-​ Sell the launcher/pack, even if it's modified.
+ 
+ ​-​ Modify the pack/Launcher and distribute it without credit.
+ 
+ -Rebrand the launcher without crediting.
+ ​**We cannot ensure that all forks of the launcher are safe. If a fork does anything dangerous, it's not our problem.**
