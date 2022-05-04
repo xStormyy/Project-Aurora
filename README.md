@@ -1,3 +1,4 @@
-# AuroraLauncher
+# Project Aurora
+An Open Source Launcher For Minecraft: Pocket Edition.
 
-An Open Source Launcher For Minecraft: Pocket Edition
+---
