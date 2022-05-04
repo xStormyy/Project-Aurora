@@ -1,3 +1,5 @@
 started work on launcher main screen /page
 
 added launch button.
+
+concept code for custom mojang splash screen.
