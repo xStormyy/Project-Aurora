@@ -7,7 +7,7 @@
   
  ​**​Contributing**
 
-   if theres an issue within the code you can contribute and attempt to fix it, you can send it to the developer's or upload it directly, you can also add helpful fetaures to the launcher or UI and submit it.
+   - if theres an issue within the code you can contribute and attempt to fix it, you can send it to the developer's or upload it directly, you can also add helpful fetaures to the launcher or UI and submit it.
  
   
  ​**What you can and can't do.**
