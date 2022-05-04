@@ -7,22 +7,22 @@
   
  ​**​Contributing**
 
-   - if theres an issue within the code you can contribute and attempt to fix it, you can send it to the developer's or upload it directly, you can also add helpful fetaures to the launcher or UI and submit it.
+ if theres an issue within the code you can contribute and attempt to fix it, you can send it to the developer's or upload it directly, you can also add helpful fetaures to the launcher or UI and submit it.
  
   
  ​**What you can and can't do.**
 
  ​What you CAN do: 
- ​-​ Modify the code/design for personal use 
+ ​-​Modify the code/design for personal use 
  
  -Use/study specific parts of the code for personal use.
- ​-​
+ 
   
  ​What you CAN'T do: 
  
- ​-​ Sell the launcher/pack, even if it's modified.
+ ​-​Sell the launcher/pack, even if it's modified.
  
- ​-​ Modify the pack/Launcher and distribute it without credit.
+ ​-​Modify the pack/Launcher and distribute it without credit.
  
  -Rebrand the launcher without crediting.
 
