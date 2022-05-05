@@ -7,3 +7,5 @@ concept code for custom mojang splash screen.
 added custom splash screen when launching Minecraft with the launcher. (sloppy and will be reworked)
 
 added fade animation to splash screen when launching Minecraft.
+
+added java file to make storage management with the app easier.
