@@ -5,3 +5,5 @@ added launch button.
 concept code for custom mojang splash screen.
 
 added custom splash screen when launching Minecraft with the launcher. (sloppy and will be reworked)
+
+added fade animation to splash screen when launching Minecraft.
