@@ -10,4 +10,6 @@ added fade animation to splash screen when launching Minecraft.
 
 added java file to make storage management with the app easier.
 
-going to attempt a version switcher.
+made some animations smoother and added extra animations.
+
+
