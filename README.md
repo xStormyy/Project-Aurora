@@ -14,18 +14,18 @@
 
  ​What you CAN do:
 
--​ Modify the code/design for personal use
+- ​Modify the code/design for personal use
 
 - Use/study specific parts of the code for personal use.
  
   
  ​What you CAN'T do: 
  
- ​-​Sell the launcher/pack, even if it's modified.
+ ​- Sell the launcher/pack, even if it's modified.
  
- ​-​Modify the pack/Launcher and distribute it without credit.
+ ​- ​Modify the pack/Launcher and distribute it without credit.
  
- -Rebrand the launcher without crediting.
+ - Rebrand the launcher without crediting.
 
 
  ​**We cannot ensure that all forks of the launcher are safe. If a fork does anything dangerous, it's not our problem.**
