@@ -12,10 +12,11 @@
   
  ​**What you can and can't do.**
 
- ​What you CAN do: 
- ​-​Modify the code/design for personal use 
- 
- -Use/study specific parts of the code for personal use.
+ ​What you CAN do:
+
+-​ Modify the code/design for personal use
+
+- Use/study specific parts of the code for personal use.
  
   
  ​What you CAN'T do: 
