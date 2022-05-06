@@ -3,7 +3,7 @@
 
  ​![](https://media.discordapp.net/attachments/963498605702959154/971469366644342904/Untitled156_20220504175217.png) 
   
- ​**An Open Source Launcher and UI For Minecraft: Pocket Edition.** 
+ ​**An Open Source Launcher For Minecraft: Pocket Edition.** 
   
  ​**​Contributing**
 
@@ -21,7 +21,7 @@
   
  ​What you CAN'T do: 
  
- ​- Sell the launcher/pack, even if it's modified.
+ ​- Sell the launcher, even if it's modified.
  
  ​- ​Modify the Code and distribute it without credit.
  
