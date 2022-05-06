@@ -23,7 +23,7 @@
  
  ​- Sell the launcher/pack, even if it's modified.
  
- ​- ​Modify the pack/Launcher and distribute it without credit.
+ ​- ​Modify the Code and distribute it without credit.
  
  - Rebrand the launcher without crediting.
 
