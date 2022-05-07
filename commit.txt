@@ -13,3 +13,4 @@ added java file to make storage management with the app easier.
 made some animations smoother and added extra animations.
 
 
+Reworked some code + Fixed bugs.
