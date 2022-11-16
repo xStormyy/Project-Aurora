@@ -21,11 +21,11 @@
   
  ​What you CAN'T do: 
  
- ​- Sell the launcher, even if it's modified.
+- Sell the launcher, even if it's modified.
  
- ​- ​Modify the Code and distribute it without credit.
+- ​Modify the Code and distribute it without credit.
  
- - Rebrand the launcher without crediting.
+- Rebrand the launcher without crediting.
 
 
  ​**We cannot ensure that all forks of the launcher are safe. If a fork does anything dangerous, it's not our problem.**
