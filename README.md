@@ -1,4 +1,7 @@
- 
+
+#NOTE PROJECT AURORA SOURCE FILES HAVE BEEN MIXED THE SRC WONT MATCH ALL THE COMMITS AND THIS PROJECT IS NO LONGER WORKED ON (wouldnt be suprised if it dosent compile)
+
+
  ​ ​**Project Aurora**
 
  ​![](https://media.discordapp.net/attachments/963498605702959154/971469366644342904/Untitled156_20220504175217.png) 
